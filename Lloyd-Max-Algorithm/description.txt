@@ -1,0 +1,9 @@
+Lloyd-Max algorithm for non-uniform PCM coding
+
+In this project , we developed the Lloyd-Max algorithm to find the optimal quantization levels of a PCM coding process , for a
+variety of bits ( N = 4,8 bits etc ). The algorithm calculates not only the output quantized signal , but also useful information
+of the process , such as the mean distortion at every iteration of the algorithm , the entropy and the SQNR of the signal etc.
+Also we have deveoped the theoritical Lloyd-Max algorithm for the special case where the input signal's PDF ( probability density
+function ) is Gaussian , with specific mean and variance values.
+
+Giorgos Michail Konstantakis , Electrical and Computer Engineer , University of Patras , Greece  

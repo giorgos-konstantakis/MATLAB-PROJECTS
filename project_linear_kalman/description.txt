@@ -1,0 +1,10 @@
+Linear Kalman Filter 
+
+In this project , we implement a linear Kalman filter to observe and estimate the real output and states values
+of a linear discrete time system , which is in discrete state-space form . The project consists of two functions , one
+for the Linear Kalman Filter algorithm and one for the addition of noise in the states and in the observations , which
+are needed to represent the real system . The project also has a main script , where we apply the two functions to a 
+linear system we made , to simulate the Kalman Filtering process . The functions can be used in any other linear system in discrete
+state-space form , so feel free to test the above algorithms to your own system.
+
+Giorgos Michail Konstantakis , Electrical and Computer Engineer , University of Patras , Greece

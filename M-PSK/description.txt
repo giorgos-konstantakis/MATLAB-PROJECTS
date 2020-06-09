@@ -1,0 +1,8 @@
+Developing a system to perform M-PSK modulation to transmit information ( bits ) through a channel
+
+In this project , we developed the M-PSK modulation algorithm , in order to simulate the transmission of big sequences of bits through 
+a channel and calculate the error between the original signal and the signal after the modulation. The user can simulate an M-PSK system
+for 4 symbols  (M=4,1 symbol per 2 bits) , 8 symbols (M=8,1 symbol per 3 bits) and 16 symbols (M=16,1 symbol per 4 bits). There are 
+instructions as comments in the algorithm in how to use it.
+
+Giorgos Michail Konstantakis , Electrical and Computer Engineer , University of Patras , Greece

@@ -1,0 +1,5 @@
+Adaptive Delta Modulation Algorithm
+
+In this project we developed the Adaptive Delta Modulation Algorithm to quantize an input signal .
+
+Giorgos Michail Konstantakis , Electrical and Computer Engineer , University of Patras , Greece

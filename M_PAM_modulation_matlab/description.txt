@@ -1,0 +1,7 @@
+M-PAM modulation simulation and calculating of bit error rate ( ber ) and symbol error rate ( ser ) for different signal-to-noise-ratios ( SNRs )
+
+In this project , we developed an function which performs the M-PAM modulation , in a sequence of bits . Specifically , we simulate the 4-PAM and 8_PAM 
+modulations . In addition , we have two functions which calculates the ber ( bit error rate ) and ser ( symbol error rate ) values respectively , and we
+have a main script where it is shown how to plot the BER and SER diagrams , for different values of SNR ( signal-to-noise-ratio ). 
+
+Giorgos Michail Konstantakis , Electrical and Computer Engineer , University of Patras , Greece
